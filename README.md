@@ -10,8 +10,8 @@
   
 ## 📫 How to reach me
 
-LINKEDIN : linkedin.com/in/reshma-murakonda2504/
-EMAIL : Mreshma1709@gmail.com
+- LINKEDIN : linkedin.com/in/reshma-murakonda2504/
+- EMAIL : Mreshma1709@gmail.com
 <!---
 MRESHMA25/MRESHMA25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
