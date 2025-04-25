@@ -11,7 +11,7 @@ I'm passionate about **full-stack development**, **systems programming**, **cybe
 ## 💻 What I Work With
 - **Languages**: Python, Java, C, C++, Go, JavaScript (Node.js), HTML/CSS basics
 - **Frameworks & Libraries**: JavaFX (GUI Applications), Pygame (Python Games and Tools), WebSockets (Real-Time Communication), basic Node.js server frameworks
-- **Tools & Databases**: SQLite (Relational Databases), command-line interfaces (Windows/Linux), Virtual Machines (Ubuntu), Notepad++ and IDEs for coding across languages, version control (Git)
+- **Tools & Databases**: SQLite (Relational Databases), command-line interfaces (Windows/Linux), Virtual Machines (Ubuntu), version control (Git), Notepad++ and IDEs for coding across languages.
 
 ---
 
