@@ -40,7 +40,7 @@ I'm passionate about **full-stack development**, **systems programming**, **cybe
 ---
 
 ## 📢 Let's Connect!
-- LinkedIn: https://www.linkedin.com/in/reshma-sri-murakonda
+- LinkedIn: https://www.linkedin.com/in/reshma-murakonda2504/
 - Email: mreshma1709@gmail.com
 
 ---
