@@ -24,10 +24,8 @@ I'm passionate about **full-stack development**, **systems programming**, **cybe
 - **Pointillism Art Generator** (Python): Created a tool to transform images into pointillist artworks using Pygame.
 - **Logical Circuits Evaluator** (Python): Built a logical circuit simulator handling boolean input and output processing.
 - **Ghost Hunter (C)**: Programmed a multi-threaded system for dynamic evidence management, focusing on memory handling and concurrency.
-- **Haskell Projects**: Practiced functional programming concepts including recursion, map, filter, and fold techniques.
-- **Parallel Sum of Squares (Go)**: Implemented concurrent algorithms leveraging goroutines and channel communication.
 - **Algorithm Design**: Applied dynamic programming, divide & conquer strategies, and graph algorithms to complex problem-solving.
-- **Trust Models in IoT (Research)**: Conducted research on cybersecurity models, focusing on trust evaluation and resilience mechanisms for IoT systems.
+- **Trust Models in IoT (Research Paper)**: Conducted research on IoT models, focusing on trust evaluation and resilience mechanisms for IoT systems.
 
 ---
 
