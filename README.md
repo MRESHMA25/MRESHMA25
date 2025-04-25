@@ -30,7 +30,10 @@ I'm passionate about **full-stack development**, **systems programming**, **cybe
 ---
 
 ## 📚 Certifications
-- Machine Learning | AWS for Beginners | IP Subnetting | Generative AI | AI Primer (Eco Canada)
+- Machine Learning
+- AWS for Beginners
+- Generative AI
+- AI Primer (Eco Canada)
 
 (Also certified in safeTALK and First Aid — because sometimes saving servers isn't enough. 🧑‍🚒)
 
