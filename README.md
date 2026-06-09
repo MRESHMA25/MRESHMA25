@@ -1,48 +1,101 @@
-# Hey there, I'm Reshma 👋
+# Hi, I'm Reshma 👋
 
-I'm a Computer Science student who believes that great software isn't just built — it's crafted with logic, creativity, and a lot of late-night debugging.
+Welcome to my corner of GitHub.
 
-When I'm not chasing down a rogue semicolon, I’m building full-stack apps, designing real-time systems, solving algorithms, experimenting with AI models, or turning images into pointillist art (because why not? 🎨).
+I recently completed my **Bachelor of Computer Science (Honours)** at **Carleton University**, with minors in **Law** and **Psychology**. That combination may seem unusual at first, but it has shaped how I approach technology. I'm interested not only in how systems work, but also in how they affect people, decisions, and the way we interact with the world around us.
 
-I'm passionate about **full-stack development**, **systems programming**, **cybersecurity**, **AI**, and **using tech to solve real problems**.
+I wouldn't describe myself as someone who loves coding for the sake of coding. What I enjoy is understanding how things work, why they break, and how different pieces fit together to solve a problem. Whether it's analyzing a network, designing a workflow, or exploring a new technology, I like turning complex ideas into something structured and practical.
 
----
+My academic background introduced me to a wide range of topics including algorithms, distributed systems, databases, software engineering, graph theory, and network analysis. Along the way, I worked on projects ranging from real-time applications and systems programming to research focused on social networks and trust models in IoT environments.
 
-## 💻 What I Work With
-- **Languages**: Python, Java, C, C++, Go, JavaScript (Node.js), HTML/CSS basics
-- **Frameworks & Libraries**: JavaFX (GUI Applications), Pygame (Python Games and Tools), WebSockets (Real-Time Communication), basic Node.js server frameworks
-- **Tools & Databases**: SQLite (Relational Databases), command-line interfaces (Windows/Linux), Virtual Machines (Ubuntu), version control (Git), Notepad++ and IDEs for coding across languages.
+Right now, I'm focused on growing into **Artificial Intelligence** and **data-driven systems**. I'm actively learning machine learning fundamentals, strengthening my Python skills, and exploring how AI can be used to create useful, human-centered solutions.
 
 ---
 
-## 📊 Projects & Concepts Practiced
-- **MediaTube** (C++): Built a lightweight media-sharing platform applying advanced OOP principles, design patterns, and manual memory management.
-- **JavaFX MVC Apps** (Java): Developed DVD Manager and Electronic Store applications following clean MVC architecture and GUI design.
-- **Real-Time Chat App & Collaborative Whiteboard** (Node.js, WebSockets): Engineered real-time, event-driven systems supporting multiple simultaneous users.
-- **Guessing Expert** (Python): Designed a dynamic decision-tree based guessing game demonstrating branching logic.
-- **Snake and Ladders** (Python, Pygame): Developed a classic board game simulation with visual interactions.
-- **Pointillism Art Generator** (Python): Created a tool to transform images into pointillist artworks using Pygame.
-- **Logical Circuits Evaluator** (Python): Built a logical circuit simulator handling boolean input and output processing.
-- **Ghost Hunter (C)**: Programmed a multi-threaded system for dynamic evidence management, focusing on memory handling and concurrency.
-- **Algorithm Design**: Applied dynamic programming, divide & conquer strategies, and graph algorithms to complex problem-solving.
-- **Trust Models in IoT (Research Paper)**: Conducted research on IoT models, focusing on trust evaluation and resilience mechanisms for IoT systems.
+# 💻 Technical Interests
+
+## Languages
+
+- Python
+- JavaScript
+- Java
+- C
+- C++
+
+## Technologies
+
+- Node.js
+- Express.js
+- REST APIs
+
+## Databases
+
+- SQL
+- MongoDB
+
+## Concepts
+
+- Data Structures & Algorithms
+- Data Analysis
+- Graph Theory
+- Distributed Systems
+- Machine Learning Fundamentals
+
+## Tools
+
+- Git
+- GitHub
+- Linux
+- Generative AI Tools
 
 ---
 
-## 📚 Certifications
-- Machine Learning
-- AWS for Beginners
-- Generative AI
-- AI Primer (Eco Canada)
+# 🚀 Current Project
 
-(Also certified in safeTALK and First Aid — because sometimes saving servers isn't enough. 🧑‍🚒)
+## WedLuk
 
----
+### AI-Powered Matrimony Platform | Team Project
 
-## 📢 Let's Connect!
-- LinkedIn: https://www.linkedin.com/in/reshma-murakonda2504/
-- Email: mreshma1709@gmail.com
+I'm currently working with a team developing **CompanionAI**, a conversational assistant within the WedLuk platform.
+
+The goal is to create a more personalized matchmaking experience by using natural conversations to understand user preferences and transform them into meaningful matching insights. My work involves helping shape conversational workflows, user interactions, feature requirements, and AI-assisted matching concepts as the platform moves through testing and refinement.
 
 ---
 
-> Fun Fact: Coding at night made me realize that sometimes the real bug is forgetting to sleep. 🌙💻
+# 🔬 Research
+
+## Network Structure Analysis in Social Systems
+
+Explored how relationships form, evolve, and influence one another through graph-based network models and structural balance theory. This research combined concepts from computer science, psychology, and social behavior to better understand complex social systems.
+
+## Trust Models in IoT
+
+Investigated trust, security, and reliability challenges in connected environments, focusing on authentication mechanisms, distributed systems, and scalable approaches for secure communication between devices.
+
+---
+
+# 🌱 Currently Learning
+
+- Machine Learning Fundamentals
+- Artificial Intelligence Concepts
+- Python for AI Applications
+- AI-Assisted Development Workflows
+- Data-Driven Problem Solving
+
+---
+
+# 📫 Let's Connect
+
+## LinkedIn
+
+**LinkedIn:**  
+https://www.linkedin.com/in/reshma-murakonda2504/
+
+## Email
+
+**Email:**  
+mreshma1709@gmail.com
+
+---
+
+> 💡 Fun fact: My path into tech has involved everything from graph theory and distributed systems to law, psychology, and AI. Somehow, all of them turned out to be connected by the same thing: understanding people and solving problems.
